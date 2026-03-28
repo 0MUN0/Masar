@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMIBVJTxea8=",
+  "success": true,
+  "projectFilePath": "D:\\S_project\\BAL\\BAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BEDAIA GROUP\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

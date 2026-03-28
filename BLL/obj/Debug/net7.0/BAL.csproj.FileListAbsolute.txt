@@ -1,0 +1,34 @@
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\BAL\bin\Debug\net7.0\BAL.deps.json
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\BAL\bin\Debug\net7.0\BAL.dll
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\BAL\bin\Debug\net7.0\BAL.pdb
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\BAL\obj\Debug\net7.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\BAL\obj\Debug\net7.0\BAL.AssemblyInfoInputs.cache
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\BAL\obj\Debug\net7.0\BAL.AssemblyInfo.cs
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\BAL\obj\Debug\net7.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\BAL\obj\Debug\net7.0\BAL.dll
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\BAL\obj\Debug\net7.0\refint\BAL.dll
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\BAL\obj\Debug\net7.0\BAL.pdb
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\BAL\obj\Debug\net7.0\ref\BAL.dll
+C:\Users\BEDAIA GROUP\Desktop\Project\BAL\bin\Debug\net7.0\BAL.deps.json
+C:\Users\BEDAIA GROUP\Desktop\Project\BAL\bin\Debug\net7.0\BAL.dll
+C:\Users\BEDAIA GROUP\Desktop\Project\BAL\bin\Debug\net7.0\BAL.pdb
+C:\Users\BEDAIA GROUP\Desktop\Project\BAL\obj\Debug\net7.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEDAIA GROUP\Desktop\Project\BAL\obj\Debug\net7.0\BAL.AssemblyInfoInputs.cache
+C:\Users\BEDAIA GROUP\Desktop\Project\BAL\obj\Debug\net7.0\BAL.AssemblyInfo.cs
+C:\Users\BEDAIA GROUP\Desktop\Project\BAL\obj\Debug\net7.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\BEDAIA GROUP\Desktop\Project\BAL\obj\Debug\net7.0\BAL.dll
+C:\Users\BEDAIA GROUP\Desktop\Project\BAL\obj\Debug\net7.0\refint\BAL.dll
+C:\Users\BEDAIA GROUP\Desktop\Project\BAL\obj\Debug\net7.0\BAL.pdb
+C:\Users\BEDAIA GROUP\Desktop\Project\BAL\obj\Debug\net7.0\ref\BAL.dll
+D:\S_project\BAL\bin\Debug\net7.0\BAL.deps.json
+D:\S_project\BAL\bin\Debug\net7.0\BAL.dll
+D:\S_project\BAL\bin\Debug\net7.0\BAL.pdb
+D:\S_project\BAL\obj\Debug\net7.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\S_project\BAL\obj\Debug\net7.0\BAL.AssemblyInfoInputs.cache
+D:\S_project\BAL\obj\Debug\net7.0\BAL.AssemblyInfo.cs
+D:\S_project\BAL\obj\Debug\net7.0\BAL.csproj.CoreCompileInputs.cache
+D:\S_project\BAL\obj\Debug\net7.0\BAL.dll
+D:\S_project\BAL\obj\Debug\net7.0\refint\BAL.dll
+D:\S_project\BAL\obj\Debug\net7.0\BAL.pdb
+D:\S_project\BAL\obj\Debug\net7.0\ref\BAL.dll
+D:\S_project\BAL\obj\Debug\net7.0\BAL.csproj.AssemblyReference.cache

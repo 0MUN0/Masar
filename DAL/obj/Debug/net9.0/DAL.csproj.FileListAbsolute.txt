@@ -1,0 +1,36 @@
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\bin\Debug\net9.0\DAL.deps.json
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\bin\Debug\net9.0\DAL.dll
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\bin\Debug\net9.0\DAL.pdb
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\obj\Debug\net9.0\DAL.dll
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\obj\Debug\net9.0\refint\DAL.dll
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\obj\Debug\net9.0\DAL.pdb
+C:\Users\BEDAIA GROUP\Desktop\SS_Project\Source_Code\tester\DAL\obj\Debug\net9.0\ref\DAL.dll
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\bin\Debug\net9.0\DAL.deps.json
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\bin\Debug\net9.0\DAL.dll
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\bin\Debug\net9.0\DAL.pdb
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\obj\Debug\net9.0\DAL.dll
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\obj\Debug\net9.0\refint\DAL.dll
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\obj\Debug\net9.0\DAL.pdb
+C:\Users\BEDAIA GROUP\Desktop\Project\DAL\obj\Debug\net9.0\ref\DAL.dll
+D:\S_project\DAL\bin\Debug\net9.0\DAL.deps.json
+D:\S_project\DAL\bin\Debug\net9.0\DAL.dll
+D:\S_project\DAL\bin\Debug\net9.0\DAL.pdb
+D:\S_project\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+D:\S_project\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\S_project\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+D:\S_project\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+D:\S_project\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+D:\S_project\DAL\obj\Debug\net9.0\DAL.dll
+D:\S_project\DAL\obj\Debug\net9.0\refint\DAL.dll
+D:\S_project\DAL\obj\Debug\net9.0\DAL.pdb
+D:\S_project\DAL\obj\Debug\net9.0\ref\DAL.dll
